@@ -35,7 +35,7 @@
 
   align-content: space-between;
   flex-wrap: nowrap;
-  gap: 50px;  
+  gap: 50px;
 }
 
 .item {
@@ -46,14 +46,9 @@
   border: 1px solid brown;
   text-align: center;
   flex-grow: 1;
-  
-  
-  
 }
-.item4{
-
-    order: -1;
-    flex-grow: 3;
-    align-self: baseline;
-   
+.item4 {
+  order: -1;
+  flex-grow: 3;
+  align-self: baseline;
 }
