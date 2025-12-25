@@ -1,51 +1,38 @@
-*{
-    margin: 0;
-    padding: 0;
-
-
+* {
+  margin: 0;
+  padding: 0;
 }
 
-
-
-
-p{
-
-    color: blue;
-    background-color: aqua;
-    text-align: center;
-    font-size: medium ;
-
+p {
+  color: blue;
+  background-color: aqua;
+  text-align: center;
+  font-size: medium;
 }
 
-
-.rb{
-    color: rgb(23, 231, 27);
-    background-color: rgb(128, 40, 40);
-    text-align: left;
-    font-size: 25px;
-    padding: 20px;
-} 
-
-body{
-
-    background-color: bisque;
-    font-size: small;
-    
+.rb {
+  color: rgb(23, 231, 27);
+  background-color: rgb(128, 40, 40);
+  text-align: left;
+  font-size: 25px;
+  padding: 20px;
 }
 
-#rbj{
-    color: brown;
-    text-align: left;
+body {
+  background-color: bisque;
+  font-size: small;
 }
 
-.a{
-    background-color: rgb(0, 255, 102);
-    height: 300px;
-    width: 400px;
-    border: 3px dotted red;
-    padding: 10px;
-    margin-left: 35%;
-    
-
+#rbj {
+  color: brown;
+  text-align: left;
 }
 
+.a {
+  background-color: rgb(0, 255, 102);
+  height: 300px;
+  width: 400px;
+  border: 3px dotted red;
+  padding: 10px;
+  margin-left: 35%;
+}
