@@ -1,0 +1,18 @@
+.a{
+    background-color: beige;
+    border: 5px color(srgb rgb(255, 0, 0) green blue);
+    height: 400px;
+    width: 600px;
+    
+}
+
+.b{
+    border-style: solid;
+    padding: 30px ;
+    background-color: blue;
+    border-color: brown;
+    border-width: 30px;
+    text-align: center;
+    text-decoration-line: underline;
+
+}
