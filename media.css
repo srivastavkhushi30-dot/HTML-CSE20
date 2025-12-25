@@ -1,0 +1,16 @@
+.div{
+    background-color: bisque;
+    height: 100px;
+    width: 100%;
+}
+@media(min-width:768px){
+    .div{
+        background-color: aqua;
+
+    }
+}
+@media(min-width:1080px){
+    .div{
+        background-color: rgb(15, 3, 255);
+    }
+}
